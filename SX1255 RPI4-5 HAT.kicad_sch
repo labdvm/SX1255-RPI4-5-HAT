@@ -11682,7 +11682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "KDS-DSA321SDN"
+		(property "Datasheet" "KDS-DSA\\DSB321SDN"
 			(at 50.165 100.965 0)
 			(effects
 				(font
