@@ -4585,6 +4585,16 @@
 		)
 		(uuid "bde1cd0b-9c5a-4d33-82ea-cd4d95b15a5f")
 	)
+	(text "for KDS osc.\nDSA321SDN (VC-TCXO) > R12 deattached, RV1-R13-R14 attached\nDSB321SDN (TCXO) > R12 attached, RV1-R13-R14 deattached"
+		(exclude_from_sim no)
+		(at 33.782 82.042 0)
+		(effects
+			(font
+				(size 0.7 0.7)
+			)
+		)
+		(uuid "f7a4efd7-0126-46c1-a091-8ac3bfa76932")
+	)
 	(junction
 		(at 91.44 36.83)
 		(diameter 0)
