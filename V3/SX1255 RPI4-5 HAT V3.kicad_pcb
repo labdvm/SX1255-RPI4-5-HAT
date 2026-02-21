@@ -280,7 +280,7 @@
 		(path "/c4f7411f-7bb3-42b8-a667-c0d8542a09fa")
 		(sheetname "/")
 		(sheetfile "SX1255 RPI4-5 HAT V3.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.227064 -0.735)
 			(end 0.227064 -0.735)
@@ -964,7 +964,7 @@
 		(path "/70930487-9a3a-463e-9203-4daff65a7eb7")
 		(sheetname "/")
 		(sheetfile "SX1255 RPI4-5 HAT V3.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.227064 -0.735)
 			(end 0.227064 -0.735)
@@ -5224,7 +5224,7 @@
 		(path "/336bad18-1a88-42eb-b453-71a1036c9253")
 		(sheetname "/")
 		(sheetfile "SX1255 RPI4-5 HAT V3.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -8151,7 +8151,7 @@
 		(path "/98884fc8-cd85-419c-8acf-380c5d844589")
 		(sheetname "/")
 		(sheetfile "SX1255 RPI4-5 HAT V3.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.261252 -0.735)
 			(end 0.261252 -0.735)
@@ -12574,7 +12574,7 @@
 		(path "/e9859641-77a5-43dd-97fe-da653da5fa3d")
 		(sheetname "/")
 		(sheetfile "SX1255 RPI4-5 HAT V3.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start 2.52 -1.87)
 			(end 2.52 1.87)
